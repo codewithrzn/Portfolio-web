@@ -212,7 +212,7 @@ body {
 /* hero section */
 .hero {
     height: 100vh;
-    background-image: url("assets/background/Yir.jpeg");
+    background-image: url("background/Yir.jpeg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -1609,3 +1609,4 @@ font-size:30px;
     }
 
 }
+
